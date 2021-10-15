@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'iCiel Panton';
+    src: url('iCielPanton-Light.eot');
+    src: url('iCielPanton-Light.eot?#iefix') format('embedded-opentype'),
+        url('iCielPanton-Light.woff') format('woff'),
+        url('iCielPanton-Light.ttf') format('truetype'),
+        url('iCielPanton-Light.svg#iCielPanton-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
