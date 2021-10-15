@@ -678,9 +678,9 @@ function run() {
         let current = 1;
         let users = {
             1: {
-                name: "Mai Thanh Binh",
+                name: "Người chơi 1",
             },
-            2: { name: "Bui Ngoc Quynh Nhu" },
+            2: { name: "Người chơi 2" },
         };
         const updateCurrent = () => {
             current = current > _max ? _min : current;
